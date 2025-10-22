@@ -87,7 +87,5 @@ public class DatosJuego {
                 setEstamina(80);
                 setHabilidades(Arrays.asList(4));
             }}
-
-
     ));
 }

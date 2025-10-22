@@ -90,7 +90,6 @@ public class PersonajeController {
     }
 
 
-
     @PostMapping
     public ResponseEntity<Personaje> crearPersonaje(@RequestBody Personaje in) {
 

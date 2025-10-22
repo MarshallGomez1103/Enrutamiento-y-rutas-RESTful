@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 		"com.example.demo",
 		"com.example.juego"
 })
+
 public class ApiRestfullApplication {
 
 	public static void main(String[] args) {
